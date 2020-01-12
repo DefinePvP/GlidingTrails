@@ -1,0 +1,7 @@
+name: GlidingTrails
+main: defineoutside.main.GlidingTrails
+version: 1.0
+api-version: 1.13
+commands:
+  trails:
+    description: Manage trails
